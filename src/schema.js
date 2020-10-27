@@ -15,7 +15,7 @@ const typeDefs = gql`
     ftr: String!
     referee: String
     hs: Int
-    as: Int
+    aws: Int
     hst: Int
     ast: Int
     hf: Int
